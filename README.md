@@ -1,2 +1,2 @@
 # pharmacies-parser
-Pharmacy parser
+Pharmacy parser (using python)
